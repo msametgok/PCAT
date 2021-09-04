@@ -1,0 +1,26 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "Photo Add Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msametgok/PCAT.git"
+  },
+  "keywords": [
+    "add",
+    "photo"
+  ],
+  "author": "Mehmet Samet Gök",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msametgok/PCAT/issues"
+  },
+  "homepage": "https://github.com/msametgok/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
